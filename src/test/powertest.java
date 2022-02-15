@@ -21,6 +21,6 @@ public class powertest {
 
     @Test
     public void power_of_2_and_3_Is_SIX() {
-        assert powerfinder.OF(3, 2) == 3*3;
+        assert powerfinder.OF(3, 2) == 9;
     }
 }
